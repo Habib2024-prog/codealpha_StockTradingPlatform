@@ -1,0 +1,2 @@
+Holding,APPL,2
+Transaction,BUY,APPL,2,152.66090240488646
